@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StringUtilities
+comment1.params=
+comment1.target=StringUtilities()
+comment2.params=string
+comment2.target=void\ judgeInputString(java.lang.String)
+comment3.params=string
+comment3.target=boolean\ isPalindrome(java.lang.String)
+comment4.params=toBeSearched\ toBeFound
+comment4.target=int\ getPositionOfSubstring(java.lang.String,\ java.lang.String)
+comment5.params=toBeSearched\ toBeFound
+comment5.target=void\ printAllPositionsOfSubstring(java.lang.String,\ java.lang.String)
+comment6.params=toBeSearched\ toBeFound
+comment6.target=int[]\ getAllPositionsOfSubstring(java.lang.String,\ java.lang.String)
+numComments=7
